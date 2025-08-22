@@ -1,5 +1,5 @@
 # scientific_computing_CT_backprojection_methods
-**Course: Scientific Computing**, Mathematics BSc
+**Course: Scientific Computing 2025**, Mathematics BSc
 
 **Grade: 10/10**
 
